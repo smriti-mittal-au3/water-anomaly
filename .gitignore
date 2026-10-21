@@ -1,0 +1,10 @@
+# Python environment and temp files
+.venv/
+__pycache__/
+
+# SWaT data and anything derived from it (licence: no redistribution)
+cache/
+results/
+*.pkl
+*.xlsx
+*.joblib
